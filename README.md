@@ -105,7 +105,7 @@ anchor build
 cargo test
 
 # Run MagicBlock devnet integration tests
-anchor test --skip-local-validator
+anchor test --skip-local-validator```
 
 ## Team — Turbin3 Builders Cohort
 
