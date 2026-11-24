@@ -93,6 +93,7 @@ Wickproof is built with a requirement-driven test suite covering all 50 specific
   * `trader_collateral >= 0`
   * `sum(long_positions) == sum(short_positions)`
   * `best_bid < best_ask`
+\
 
 ### Running Tests
 
@@ -105,3 +106,8 @@ cargo test
 
 # Run MagicBlock devnet integration tests
 anchor test --skip-local-validator
+## Team — Turbin3 Builders Cohort
+
+* **Ansh Verma** — Order Book Engine & MagicBlock Delegation (`UC-02`, `UC-04`, `UC-05`, `UC-06`, `UC-08`)
+* **Samir Kumar** — Three-Price Mark Engine & Liquidation Protocol (`UC-07`)
+* **Prateek Rastogi** — Market Initialization, Vault Custody & USDC Flows (`UC-01`, `UC-03`, `UC-09`)
