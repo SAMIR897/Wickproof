@@ -112,4 +112,4 @@ anchor test --skip-local-validator
 
 * **Ansh Verma** — Order Book Engine & MagicBlock Delegation (`UC-02`, `UC-04`, `UC-05`, `UC-06`, `UC-08`)
 * **Samir Kumar** — Three-Price Mark Engine & Liquidation Protocol (`UC-07`)
-* **Prateek Rastogi** — Market Initialization, Vault Custody & USDC Flows (`UC-01`, `UC-03`, `UC-09`)
+* **Prateek Rastogi** — Market Initialization, Vault Custody & USDC Flows (`UC-01`, `UC-03`, `UC-09`)Thanks to Prateek for helping with this project.
